@@ -77,15 +77,3 @@ yesBtn.addEventListener("click", () => {
   const hint = document.querySelector(".hint");
   if (hint) hint.textContent = "Gracias bacan";
 });
-
-
-
-
-
-
-git init
-git add .
-git commit -m "valentine "
-git branch -M main
-git remote add origin https://github.com/DHA2004/valentine-Paula.git
-git push -u origin main
